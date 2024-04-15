@@ -35,6 +35,7 @@ switch (opcion) {
     alert(
       "Usted ha elegido una opción incorrecta. Por favor, vuelva a comenzar."
     );
+    break;
 }
 
 //FUNCIONES

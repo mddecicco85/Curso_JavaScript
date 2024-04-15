@@ -1,3 +1,4 @@
+//DECLARACIÓN DE VARIABLES
 let num;
 let i = 0;
 

@@ -1,0 +1,21 @@
+.btn-primary {
+  /* background-color: rgb(146, 22, 22); */
+  background-color: #6ca6e9;
+}
+
+.container-fluid {
+  background-color: rgba(255, 166, 0, 0.918);
+  /* color: white; */
+  /* opacity: 1; */
+}
+
+.navbar-custom {
+  background-color: white;
+  /* Esto sirve para que la barra no quede transparente. Cualquier color que ponga, funciona. */
+}
+
+a {
+  color: #007bff;
+  /* color: white; */
+  /* Con esto cambio el color de fuente de los enlaces de la barra. */
+}

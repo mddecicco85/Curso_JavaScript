@@ -1,0 +1,48 @@
+.container-fluid {
+  background-color: rgba(255, 166, 0, 0.918);
+  /* color: white; */
+  /* opacity: 1; */
+}
+
+.navbar-custom {
+  background-color: white;
+  /* Esto sirve para que la barra no quede transparente. Si no pongo white, no funciona. */
+}
+
+a {
+  color: #007bff;
+  /* color: white; */
+  /* Con esto cambio el color de fuente de los enlaces de la barra. */
+}
+
+.row {
+  display: flex;
+  /* align-content: center; */
+}
+
+.card {
+  width: 170px;
+  text-align: center;
+  margin: 12px;
+  margin-bottom: 40px;
+}
+
+/* .card-house {
+  text-align: center;
+} */
+
+.btn-group {
+  margin: auto;
+  margin-top: 12px;
+}
+
+.card-price {
+  margin: auto;
+  margin-left: 10px;
+}
+
+.bd-placeholder-img {
+  padding: 6px;
+  /* background-color: rgb(146, 22, 22); */
+  background-color: #6ca6e9;
+}
